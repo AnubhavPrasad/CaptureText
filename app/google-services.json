@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "758622111275",
+    "firebase_url": "https://capturetext-5d760.firebaseio.com",
+    "project_id": "capturetext-5d760",
+    "storage_bucket": "capturetext-5d760.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758622111275:android:2c79e2bc25e5dc11344c6e",
+        "android_client_info": {
+          "package_name": "com.example.capturetext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758622111275-3shr3eakq8opbc7ofc0v30fs1ip12vsp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA58Y_rTVy2WLNJkgP1Va83d45wvST5-Uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758622111275-3shr3eakq8opbc7ofc0v30fs1ip12vsp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
